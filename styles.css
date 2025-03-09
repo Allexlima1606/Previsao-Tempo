@@ -13,7 +13,11 @@ body {
   align-items: center;
   height: 100vh;
   width: 100vw;
+<<<<<<< HEAD
   background-image: url("https://picsum.photos/1950/920");
+=======
+  background-image: url("https://picsum.photos/seed/picsum/2000/980");
+>>>>>>> b6f645bb4cb13c055775b737409cd371786759ef
 }
 
 .caixa-maior {
